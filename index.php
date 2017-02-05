@@ -1,5 +1,6 @@
 <?php
 
+// committed to github - this change was done on github using the edit tool
 function notes_inc_index(){
 	/**
 		* I store my notes in a functionn so i can open and close them as needed - yeah code folding
